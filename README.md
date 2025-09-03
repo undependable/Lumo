@@ -1,12 +1,3 @@
-# Team-33
-
-Isaac Hashem (isaacha)  
-Anna Steinmoen Jacobsen (annasja)  
-Anna Aurvåg Soerum (annaasor)  
-John Saravanan (vadsanjs)  
-Didrik Sivertsen (didrisi)  
-Alexander Gran Makarov (grans)  
-
 # LUMO
 
 Lumo er en Android-applikasjon som hjelper deg med å beregne strømproduksjon og årlige besparelser fra solcellepaneler på din eiendom. Appen lar deg registrere takflater med ulike vinkler og retninger, og gir deg detaljerte estimater basert på værmønstre og solinnstråling.
@@ -30,6 +21,7 @@ Lumo er en Android-applikasjon som hjelper deg med å beregne strømproduksjon o
 - **Internett** (`INTERNET`): For å hente data fra solcelleberegnings-APIer, værdata og strømpriser
 - **Nettverkstilgang** (`ACCESS_NETWORK_STATE`): For å sjekke nettverksstatus
 - **Lokasjon** (`ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`): For å finne brukeren sin posisjon
+- **MapBox**
 
 ## Biblioteker
 
