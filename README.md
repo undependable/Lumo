@@ -7,7 +7,7 @@ Lumo er en Android-applikasjon som hjelper deg med å beregne strømproduksjon o
 ## Hvordan kjøre appen
 
 1. Åpne terminalen og naviger til området du ønsker å laste ned prosjektet 
-2. Kopier URL-en til prosjektet, ved å trykke på "code" knappen på github-siden til prosjektet(https://github.uio.no/IN2000-V25/team-33) og trykk på kopier-knappen
+2. Kopier URL-en til prosjektet, ved å trykke på "code" knappen på github-siden til prosjektet og trykk på kopier-knappen
 3. Skriv kommandoen `git clone <URL>` i terminalen og trykk enter
 4. Trykk enter og vent til nedlastningen er fullført
 5. Åpne Android Studio og trykk på "open"
